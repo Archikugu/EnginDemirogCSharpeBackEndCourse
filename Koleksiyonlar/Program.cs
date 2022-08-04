@@ -16,7 +16,7 @@ namespace Koleksiyonlar
             ////new dediğimiz anda bellekte yeni yer açılır
             //isimler[4] = "İlker";
             //Console.WriteLine(isimler[4]);
-            //Console.WriteLine(isimler[0]); //Gelmez çünkü boş yeni adres boş
+            //Console.WriteLine(isimler[0]); //Gelmez çünkü boş yeni adres boş 
 
             List <string> isimler2=new List<string>() { "Engin","Gokhan","Murat","Kerem"};
             Console.WriteLine(isimler2[0]);
